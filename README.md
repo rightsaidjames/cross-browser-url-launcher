@@ -6,7 +6,9 @@ Windows-only (batch file) for now, but other scripting languages and operating s
 # Usage
 
 Navigate to the directory where you've put the script, then:
-`url-builder http://testers.io`
+```batch
+url-builder http://testers.io
+```
 
 If you don't want to test in a certain browser, remove that line from the script.
 
@@ -14,7 +16,7 @@ If you leave out the protocol (`http://`, `https://` etc.) then it won't work in
 
 # Credits
 
-Thanks to fellow testers on the [Testers.io Slack](http://testers.io] #tools channel for suggesting an approach and help with batch files and/or command line options for browser launching:
+Thanks to fellow testers on the [Testers.io Slack](http://testers.io) #tools channel for suggesting an approach and help with batch files and/or command line options for browser launching:
 * Dominic Kua - [@dominic-kua](https://github.com/dominic-kua)
 * Gustavo Rivera - [@gustavoriveray](https://github.com/gustavoriveray)
 
