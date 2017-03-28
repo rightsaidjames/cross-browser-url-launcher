@@ -7,7 +7,7 @@ Windows-only (batch file) for now, but other scripting languages and operating s
 
 Navigate to the directory where you've put the script, then:
 ```batch
-url-builder http://testers.io
+url-launcher http://testers.io
 ```
 
 If you don't want to test in a certain browser, remove that line from the script.
